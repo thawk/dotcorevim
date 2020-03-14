@@ -15,6 +15,7 @@ set tabstop=2
 set expandtab
 set relativenumber
 set number
+set hidden
 
 set backspace=indent,eol,start
 set nrformats-=octal
